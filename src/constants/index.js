@@ -48,7 +48,7 @@ import {
   netlify,
   bootstrap,
   vscode,
-  ascode,
+  // ascode,
   koftea,
   portfolio,
   bank,
@@ -98,7 +98,7 @@ const technologies = [
   { name: "Netlify", icon: netlify },
   { name: "Bootstrap", icon: bootstrap },
   { name: "VS Code", icon: vscode },
-  { name: "AS Code", icon: ascode },
+  // { name: "AS Code", icon: ascode },
 
 ];
 

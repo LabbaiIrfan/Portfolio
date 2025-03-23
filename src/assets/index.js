@@ -50,7 +50,7 @@ import dart from "./tech/dart.jpeg";
 import lightroom from "./tech/lightroom.png";
 import firebase from "./tech/firebase.png";
 import vscode from "./tech/Vscode.jpeg";
-import ascode from "./tech/Ascode.png";
+// import ascode from "./tech/Ascode.png";
 import bootstrap from "./tech/bootstrap.png";
 import netlify from "./tech/netlify.png";
 import vercel from "./tech/vercel.png";
@@ -76,7 +76,7 @@ export {
   netlify,
   bootstrap,
   vscode,
-  ascode,
+  // ascode,
   firebase,
   python,
   flutter,
