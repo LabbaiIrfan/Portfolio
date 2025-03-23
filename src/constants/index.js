@@ -1,8 +1,13 @@
+// Imports
 import {
   mobile,
   backend,
   creator,
+  tabrez,
+  zakaullah,
+  shadullah,
   web,
+  app,
   javascript,
   typescript,
   html,
@@ -23,242 +28,224 @@ import {
   jobit,
   tripguide,
   threejs,
+  problem,
+  design,
+  leadership,
+  gdg,
+  algorithm,
+  codechef,
+  aiktc,
+  django,
+  c,
+  cpp,
+  mysql,
+  python,
+  flutter,
+  dart,
+  lightroom,
+  firebase,
+  vercel,
+  netlify,
+  bootstrap,
+  vscode,
+  ascode,
+  koftea,
+  portfolio,
+  bank,
+  bonhomie,
+  calculator,
 } from "../assets";
 
+// Navigation Links
 export const navLinks = [
-  {
-    id: "about",
-    title: "About",
-  },
-  {
-    id: "work",
-    title: "Work",
-  },
-  {
-    id: "contact",
-    title: "Contact",
-  },
+  { id: "about", title: "About" },
+  { id: "work", title: "Work" },
+  { id: "contact", title: "Contact" },
 ];
 
+// Services
 const services = [
-  {
-    title: "Web Developer",
-    icon: web,
-  },
-  {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+  { title: "Software Developer", icon: creator },
+  { title: "UI/UX Designer", icon: design },
+  { title: "Leadership", icon: leadership },
+  { title: "Problem Solver", icon: problem },
 ];
 
+// Technologies
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  { name: "HTML 5", icon: html },
+  { name: "CSS 3", icon: css },
+  { name: "JavaScript", icon: javascript },
+  // { name: "TypeScript", icon: typescript },
+  { name: "React JS", icon: reactjs },
+  // { name: "Redux Toolkit", icon: redux },
+  { name: "Tailwind CSS", icon: tailwind },
+  { name: "Node JS", icon: nodejs },
+  { name: "MongoDB", icon: mongodb },
+  // { name: "Three JS", icon: threejs },
+  { name: "Git", icon: git },
+  { name: "Figma", icon: figma },
+  { name: "C", icon: c },
+  { name: "Cpp", icon: cpp },
+  { name: "MySQL", icon: mysql },
+  { name: "Django", icon: django },
+  { name: "Python", icon: python },
+  { name: "Flutter", icon: flutter },
+  { name: "Dart", icon: dart },
+  { name: "Lightroom", icon: lightroom },
+  { name: "Firebase", icon: firebase },
+  { name: "Vercel", icon: vercel },
+  { name: "Netlify", icon: netlify },
+  { name: "Bootstrap", icon: bootstrap },
+  { name: "VS Code", icon: vscode },
+  { name: "AS Code", icon: ascode },
+
 ];
 
+// Experiences
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Core Design Team Member",
+    company_name: "Google Developer Group Club (GDGC), AIKTC",
+    icon: gdg,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2024 - April 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led the core design team of the Google Developer Group Club (GDGC) at Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), demonstrating strong leadership and creative skills.",
+      "Conceptualized and designed visually appealing graphics, event posters, and social media content that significantly enhanced the club's digital presence.",
+      "Managed and maintained the club's social media handles, ensuring consistent branding and professional presentation.",
+      "Conducted a comprehensive workshop on React.js for college students, imparting hands-on experience and fostering practical understanding of web development."
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Technical Secretary",
+    company_name: "Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC)",
+    icon: aiktc,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "October 2024 - September 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Held the position of Technical Secretary at AIKTC, demonstrating strong leadership, communication, and marketing skills.",
+      "Organized and coordinated various college events, managing technical and logistical aspects to ensure successful execution.",
+      "Developed a website for college event registration, streamlining the process and enhancing user experience.",
+      "Led cross-functional teams to promote events through digital marketing and on-campus campaigns, significantly increasing participation.",
+      "Strengthened community engagement by effectively communicating with stakeholders and ensuring smooth coordination."
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Core Member",
+    company_name: "CodeChef Club, AIKTC",
+    icon: codechef,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "October 2024 - April 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Served as a core member of the CodeChef Club at AIKTC, actively contributing to community growth and skill development.",
+      "Organized and conducted multiple workshops, coding contests, and competitive programming events to enhance problem-solving skills among students.",
+      "Collaborated with the Programmers Club to organize a 32-hour hackathon, fostering innovation and teamwork.",
+      "Promoted a coding culture on campus by encouraging peer learning and collaboration through various events and activities."
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Design and Technical Member",
+    company_name: "Algorithm 9.0 Hackathon, AIKTC",
+    icon: algorithm,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "December 2024 - April 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Served as a design and technical member for Algorithm 9.0, a 32-hour hackathon held at AIKTC.",
+      "Contributed to website development for smooth and efficient event registration.",
+      "Designed various banners, posters, and certificates, ensuring a cohesive and professional visual identity for the event.",
+      "Collaborated with the organizing team to streamline technical aspects and enhance participant experience."
     ],
   },
 ];
 
+// Testimonials
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    testimonial: "I have had the pleasure of mentoring Irfan during his time at AIKTC, and I am consistently impressed by his dedication to software development and his eagerness to learn. His problem-solving abilities and innovative approach to projects set him apart from his peers. I am confident that his skills and passion will drive him to excel in the software industry.",
+    name: "Zakaullah Ansari",
+    designation: "Professor",
+    company: "AIKTC",
+    image: zakaullah,
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    testimonial: "As the Technical Secretary of our college, Irfan has consistently demonstrated exceptional leadership and technical skills. He has successfully organized numerous technical events, showcasing his ability to manage tasks efficiently and lead with dedication. His passion for technology and commitment to excellence make him a valuable asset to any team.",
+    name: "Tabrez Khan",
+designation: "HOD, Department of Engineering",
+company: "AIKTC",
+    image: tabrez,
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    testimonial: "Irfan has been an enthusiastic and dedicated student, actively participating in various events and activities. His passion for learning and commitment to personal growth are truly commendable. Irfan’s positive attitude and collaborative spirit make him a valuable asset to any team.",
+    name: "Shadullah Shaikh",
+    designation: "Student Coordinator and Club Lead",
+    company: "AIKTC",
+    image: shadullah,
   },
+  
 ];
 
+// Projects
 const projects = [
   {
-    name: "Car Rent",
+    name: "Bank Management System",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A comprehensive system to manage banking operations, including user account management, transaction handling, and balance tracking. This project demonstrates the ability to create efficient, secure, and user-friendly financial applications.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      { name: "C++", color: "blue-text-gradient" },
+
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: bank,
+    source_code_link: "https://github.com/LabbaiIrfan/Bank-Management",
   },
   {
-    name: "Job IT",
+    name: "KofTea",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A visually captivating landing page designed for a fictional coffee and tea brand. This project demonstrates creativity in design and proficiency in creating an engaging, user-friendly interface, showcasing the brand’s identity and products through a clean and modern layout.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
+      { name: "Html", color: "blue-text-gradient" },
+      { name: "Css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: koftea,
+    source_code_link: "https://github.com/LabbaiIrfan/codsoft/tree/main/Landing%20page",
   },
   {
-    name: "Trip Guide",
+    name: "Calculator",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A fully responsive calculator with an adaptive design for various screen sizes. It features efficient logical operations and an intuitive user interface, demonstrating the ability to create functional and visually appealing web applications.",
     tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
+      { name: "Html", color: "blue-text-gradient" },
+      { name: "Css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: calculator,
+    source_code_link: "https://github.com/LabbaiIrfan/codsoft/tree/main/Calculator",
+  },
+  {
+    name: "Portfolio",
+    description:
+      "A personal portfolio featuring a contact form that stores user-submitted data in a database. This project highlights the ability to integrate front-end design with back-end functionality, ensuring seamless data collection and user interaction.",
+    tags: [
+      { name: "Html & Css", color: "blue-text-gradient" },
+      { name: "Python", color: "green-text-gradient" },
+      { name: "Django", color: "pink-text-gradient" },
+
+    ],
+    image: portfolio,
+    source_code_link: "https://github.com/LabbaiIrfan/portfolio-django",
+  },
+  {
+    name: "Bonhomie Event Website",
+    description:
+      "A dedicated event registration platform for a college event, enabling participants to register and store their details in a database. This project showcases the ability to develop a user-friendly interface with robust back-end functionality for efficient data management.",
+    tags: [
+      { name: "React Js", color: "blue-text-gradient" },
+      { name: "Node JS", color: "green-text-gradient" },
+      { name: "Mongo DB", color: "pink-text-gradient" },
+    ],
+    image: bonhomie,
+    source_code_link: "https://github.com/LabbaiIrfan/bonhomie-frontend",
   },
 ];
 

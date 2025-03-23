@@ -1,8 +1,8 @@
 import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import backend from "./services/backend.png";
+import creator from "./services/creator.png";
+import mobile from "./services/mobile.png";
+import web from "./services/web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -29,9 +29,67 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import leadership from "./services/leadership.svg";
+import problem from "./services/problem.svg";
+import design from "./services/design.svg";
+import app from "./services/app.svg";
+
+import aiktc from "./experience/aiktc.jpeg";
+import codechef from "./experience/codechef.jpeg";
+import algorithm from "./experience/algo.svg";
+import gdg from "./experience/gdg.jpg";
+
+
+import django from "./tech/django.png";
+import c from "./tech/c.png";
+import cpp from "./tech/cpp.png";
+import mysql from "./tech/mysql.png";
+import python from "./tech/python.png";
+import flutter from "./tech/flutter.jpeg";
+import dart from "./tech/dart.jpeg";
+import lightroom from "./tech/lightroom.png";
+import firebase from "./tech/firebase.png";
+import vscode from "./tech/Vscode.jpeg";
+import ascode from "./tech/ascode.png";
+import bootstrap from "./tech/bootstrap.png";
+import netlify from "./tech/netlify.png";
+import vercel from "./tech/vercel.png";
+import zakaullah from "./zakaullah.png";
+import tabrez from "./tabrez.png";
+import shadullah from "./shadullah.png";
+import calculator from "./projects/calculator.png";
+import bank from "./projects/bank.png";
+import bonhomie from "./projects/bonhomie.png";
+import portfolio from "./projects/portfolio.png";
+import koftea from "./projects/koftea.png";
 
 export {
+  koftea,
+  portfolio,
+  bank,
+  bonhomie,
+  calculator,
+  tabrez,
+  zakaullah,
+  shadullah,
+  vercel,
+  netlify,
+  bootstrap,
+  vscode,
+  ascode,
+  firebase,
+  python,
+  flutter,
+  dart,
+  lightroom,
+  mysql,
+  cpp,
+  c,
+  django,
   logo,
+  app,
+  design,
+  problem,
   backend,
   creator,
   mobile,
@@ -59,4 +117,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  leadership,
+  gdg,
+  algorithm,
+  codechef,
+  aiktc,
 };
