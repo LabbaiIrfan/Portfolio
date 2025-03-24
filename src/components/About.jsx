@@ -47,14 +47,8 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
 I'm a passionate software developer with a talent for crafting intuitive and high-performance mobile applications. I excel at turning ideas into impactful digital experiences through clean code and innovative design. With a strong focus on scalability and user satisfaction, I’m dedicated to delivering solutions that make a difference. Let's work together to bring your vision to life!
-
-
       </motion.p>
-
       {/* Resume Button */}
-{/* Resume Button */}
-{/* Resume Button */}
-{/* Resume Button */}
 <motion.div variants={fadeIn("", "", 0.2, 1)} className="mt-8">
   <a
     href="https://drive.google.com/file/d/1IZ2gMVp9ymxx1lB28-gLci23Ad-3zQmb/view?usp=drive_link"
