@@ -96,7 +96,7 @@ const Contact = () => {
           <p className='font-semibold'>Follow me on:</p>
           <div className='flex justify-center gap-6 mt-4'>
             <a href='https://www.instagram.com/iffuu.9?igsh=NnE0enljeW5jNTRm' target='_blank' rel='noopener noreferrer' className='text-white text-lg font-medium hover:text-primary transition duration-300'>Instagram</a>
-            <a href='https://www.linkedin.com/in/irfan-labbai-5085a0288/' target='_blank' rel='noopener noreferrer' className='text-white text-lg font-medium hover:text-primary transition duration-300'>LinkedIn</a>
+            <a href='https://www.linkedin.com/in/labbai-irfan-5085a0288/' target='_blank' rel='noopener noreferrer' className='text-white text-lg font-medium hover:text-primary transition duration-300'>LinkedIn</a>
             <a href='https://github.com/LabbaiIrfan' target='_blank' rel='noopener noreferrer' className='text-white text-lg font-medium hover:text-primary transition duration-300'>GitHub</a>
           </div>
         </div>
