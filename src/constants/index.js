@@ -7,7 +7,20 @@ import {
   bank,
   bonhomie,
   bootstrap,
+  algostandee,
+  aLgobrochure1,
+  aLgobrochure2,
   c,
+  c1,
+  c2,
+  c3,
+  c4,
+  c5,
+  c6,
+  c7,
+  c8,
+  c9,
+  c10,
   calculator,
   codechef,
   cpp,
@@ -43,7 +56,13 @@ import {
   vercel,
   web,
   zakaullah,
-  
+  logo,
+  algoid,
+  algologo,
+  algoposter,
+  algoid2,
+  bonhomielogo,
+  bonhomielogo2,
 } from "../assets";
 
 // Navigation Links
@@ -154,13 +173,13 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2025 - Present",
     points: [
-    "Providing strategic leadership to the Global Leadership Team, driving impactful community service and leadership development initiatives.",
-    "Coordinating large-scale social projects in collaboration with Lions International, fostering community engagement and positive change.",
-    "Implementing leadership training programs to enhance member skills, motivation, and active involvement.",
-    "Formulating and executing strategies to increase member retention and strengthen club engagement.",
-    "Overseeing branding and communication efforts to ensure a consistent and professional visual identity.",
-    "Establishing partnerships with local organizations to amplify the club's reach and impact."
-  
+      "Providing strategic leadership to the Global Leadership Team, driving impactful community service and leadership development initiatives.",
+      "Coordinating large-scale social projects in collaboration with Lions International, fostering community engagement and positive change.",
+      "Implementing leadership training programs to enhance member skills, motivation, and active involvement.",
+      "Formulating and executing strategies to increase member retention and strengthen club engagement.",
+      "Overseeing branding and communication efforts to ensure a consistent and professional visual identity.",
+      "Establishing partnerships with local organizations to amplify the club's reach and impact."
+
     ],
   },
 ];
@@ -177,8 +196,8 @@ const testimonials = [
   {
     testimonial: "As the Technical Secretary of our college, Irfan has consistently demonstrated exceptional leadership and technical skills. He has successfully organized numerous technical events, showcasing his ability to manage tasks efficiently and lead with dedication. His passion for technology and commitment to excellence make him a valuable asset to any team.",
     name: "Tabrez Khan",
-designation: "HOD, Department of Engineering",
-company: "AIKTC",
+    designation: "HOD, Department of Engineering",
+    company: "AIKTC",
     image: tabrez,
   },
   {
@@ -188,7 +207,7 @@ company: "AIKTC",
     company: "AIKTC",
     image: shadullah,
   },
-  
+
 ];
 
 // Projects
@@ -255,4 +274,80 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const designs = [
+
+  {
+    name: "Algorithm 9.0 Poster",
+    description: "32 Hr Hackathon",
+    images: [algoposter],
+    link: "https://dashboardlink.com",
+  },
+  {
+    name: "Algorithm 9.0 ID Card",
+    description: "Official ID card design for Algorithm 9.0 event.",
+    images: [
+      algoid,
+      algoid2,
+    ],
+    link: "https://yourdesignlink.com",
+  },
+  {
+    name: "Algorithm 9.0 Standee",
+    description: "Promotional standee design for Algorithm 9.0 event.",
+    images: [algostandee],
+    link: "https://yourdesignlink.com",
+  },
+  {
+    name: "Algorithm 9.0 Team Member Certificates",
+    description: "Official certificates for team members of Algorithm 9.0 event.",
+    images: [
+      c1,
+      c2,
+      c3,
+      c4,
+      c5,
+      c6,
+      c7,
+    ],
+    link: "https://yourdesignlink.com",
+  },
+  {
+    name: "Algorithm 9.0 Winner & Participant Certificates",
+    description: "Official certificates for winners and participants of Algorithm 9.0 event.",
+    images: [
+      c8,
+      c9,
+      c10,
+    ],
+    link: "https://yourdesignlink.com",
+  },
+  {
+    name: " Algorithm 9.0 Brochure",
+    description: "Official brochure design for the Algorithm 9.0 college event.",
+    images: [
+      aLgobrochure1,
+      aLgobrochure2,
+    ],
+    link: "https://yourdesignlink.com",
+  },
+  {
+    name: "Bonhomie Event Logo",
+    description: "Official logo design for the Bonhomie college event.",
+    images: [
+      bonhomielogo,
+      bonhomielogo2,
+    ],
+    link: "https://yourdesignlink.com",
+  },
+
+  {
+    name: "Algorithm 9.0 Logo",
+    description: "Official logo design for the Algorithm 9.0 event.",
+    images: [algologo],
+    link: "https://yourdesignlink.com",
+  },
+
+];
+
+
+export { services, technologies, experiences, testimonials, projects, designs };

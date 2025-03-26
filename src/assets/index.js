@@ -1,4 +1,5 @@
 import aiktc from "./experience/aiktc.jpeg";
+
 import algorithm from "./experience/algo.svg";
 import app from "./services/app.svg";
 import ascode from "./tech/Ascode.png";
@@ -46,8 +47,47 @@ import vercel from "./tech/vercel.png";
 import vscode from "./tech/Vscode.jpeg";
 import web from "./services/web.png";
 import zakaullah from "./zakaullah.png";
+import algoid from "./designs/AlgoID.png";
+import algoid2 from "./designs/AlgoID2.png";
+import algologo from "./designs/Algologo.png";
+import algoposter from "./designs/Algoposter.png";
+import bonhomielogo from "./designs/bonhomielogo1.png";
+import bonhomielogo2 from "./designs/bonhomielogo2.png";
+import algostandee from "./designs/algostandee.png";
+import c1 from "./designs/C1.png";
+import c2 from "./designs/C2.png";
+import c3 from "./designs/C3.png";
+import c4 from "./designs/C4.png";
+import c5 from "./designs/C5.png";
+import c6 from "./designs/C6.png";
+import c7 from "./designs/C7.png";
+import c8 from "./designs/C8.png";
+import c9 from "./designs/C9.png";
+import c10 from "./designs/C10.png";
+import aLgobrochure1 from "./designs/ALgobrochure1.png";
+import aLgobrochure2 from "./designs/ALgobrochure2.png";
+
 export {
+  aLgobrochure1,
+  aLgobrochure2,
   aiktc,
+  algostandee,
+  c1,
+  c2,
+  c3,
+  c4,
+  c5,
+  c6,
+  c7,
+  c8,
+  c9,
+  c10,
+  algoid,
+  algologo,
+  algoposter,
+  algoid2,
+  bonhomielogo,
+  bonhomielogo2,
   algorithm,
   app,
   ascode,
