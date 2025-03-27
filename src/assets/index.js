@@ -49,7 +49,7 @@ import web from "./services/web.png";
 import zakaullah from "./zakaullah.png";
 import algoid from "./designs/AlgoID.png";
 import algoid2 from "./designs/AlgoID2.png";
-import algologo from "./designs/Algologo.png";
+import algologo from "./designs/Algologo.jpg";
 import algoposter from "./designs/Algoposter.png";
 import bonhomielogo from "./designs/bonhomielogo1.png";
 import bonhomielogo2 from "./designs/bonhomielogo2.png";
