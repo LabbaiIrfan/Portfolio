@@ -280,7 +280,7 @@ const designs = [
     name: "Algorithm 9.0 Poster",
     description: "32 Hr Hackathon",
     images: [algoposter],
-    link: "https://dashboardlink.com",
+    link: "https://drive.google.com/file/d/1dewAuEKP0lRo3uTk_wC-X9VBtD4349xI/view?usp=drive_link",
   },
   {
     name: "Algorithm 9.0 ID Card",
@@ -289,13 +289,13 @@ const designs = [
       algoid,
       algoid2,
     ],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/drive/folders/1hZalVrYWNZS5xb6QB6RSJGfNdIHIJX8B?usp=drive_link",
   },
   {
     name: "Algorithm 9.0 Standee",
     description: "Promotional standee design for Algorithm 9.0 event.",
     images: [algostandee],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/file/d/1ydj9oH96f0qo8YCRj8PiEKUT16bZrkzc/view?usp=drive_link",
   },
   {
     name: "Algorithm 9.0 Team Member Certificates",
@@ -309,7 +309,7 @@ const designs = [
       c6,
       c7,
     ],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/drive/folders/1d5KKsM73J3cm01B3io7THecQLnIbKbSW?usp=drive_link",
   },
   {
     name: "Algorithm 9.0 Winner & Participant Certificates",
@@ -328,7 +328,7 @@ const designs = [
       aLgobrochure1,
       aLgobrochure2,
     ],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/drive/folders/1ssLzQsDDZ8pXf3qxHc-9SUg23XgK94xJ?usp=drive_link",
   },
   {
     name: "Bonhomie Event Logo",
@@ -337,14 +337,14 @@ const designs = [
       bonhomielogo,
       bonhomielogo2,
     ],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/drive/folders/1PL-hb8MxFkjuJzrNQa5Q4INPaUT8CDis?usp=drive_link",
   },
 
   {
     name: "Algorithm 9.0 Logo",
     description: "Official logo design for the Algorithm 9.0 event.",
     images: [algologo],
-    link: "https://yourdesignlink.com",
+    link: "https://drive.google.com/file/d/1dssANUYLD5hpw7jRcqawWvBRoWAUOvdo/view?usp=drive_link",
   },
 
 ];
